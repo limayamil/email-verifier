@@ -1,69 +1,69 @@
 email,verification_result
-vicerrectoria@cesa.edu.co,Dirección de correo inválida
-vanyaroca@upsa.edu.bo,Dirección de correo inválida
-unm@unm.edu.ar,Correo válido
-teco@teco.edu.co,Sin registro MX
-subdireccion.proyeccion@esap.edu.co,Dirección de correo inválida
-seu@se.unt.edu.ar,Dirección de correo inválida
-secretaria@unae.edu.py,Dirección de correo inválida
-scad@uajms.edu.bo,Dirección de correo inválida
-scaceres@campus.unam.edu.ar,Dirección de correo inválida
-rodrigo.noguera@usa.edu.co,Dirección de correo inválida
-reitoria@uniderp.br,Dirección de correo inválida
-rectorutb@unitecnologica.edu.co,Dirección de correo inválida
-rectoria@uth.edu.mx,Correo válido
-rectoria@universidad-policial.edu.ar,Dirección de correo inválida
-rectoria@unisabana.edu.co,Dirección de correo inválida
-rectoria@unipiloto.edu.co,Correo válido
-rectoria@uniguajira.edu.co,Correo válido
-rectoria@unicolmayor.edu.co,Correo válido
-rectoria@udlap.mx,Dirección de correo inválida
-rectoria@ucp.edu.co,Dirección de correo inválida
-rectoria@tecnologicaindustrial.edu.co,Sin registro MX
-rectoria@pedagogica.edu.co,Dirección de correo inválida
-rectoria@itae.edu.co,Sin registro MX
-rectoria@correo.usta.edu.co,Sin registro MX
-rectorado@undec.edu.ar,Correo válido
-rector@unisabana.edu.co,Correo válido
-rector@rect.nrp.edu.bo,Sin registro MX
-rector@ctb.edu.co,Dirección de correo inválida
-rector@coruniversitec.edu.co,Dirección de correo inválida
-postmaster@ct.unt.edu.ar,Correo válido
-postgrado@lpz.udabol.edu.bo,Sin registro MX
-mpedroza@uamericana.edu.py,Dirección de correo inválida
-mmejia@ideartes.edu.co,Catch-all
-mcmchuquiruna@tecsup.edu.pe,Dirección de correo inválida
-martin@capabilia.org,Correo válido
-llavayen@upds.edu.bo,Dirección de correo inválida
-leticiajordan@upsa.edu.bo,Dirección de correo inválida
-kmanssur@upds.edu.bo,Dirección de correo inválida
-juancarlosvelasco@isu.edu.mx,Dirección de correo inválida
-jpalacios@alycanto.uda.cl,Sin registro MX
-jcsanchez@udmcopiapo.cl,Sin registro MX
-jcerisola@rectorado.unt.edu.ar,Dirección de correo inválida
-jaimevalenzuela@ucentral.cl,Dirección de correo inválida
-iugna@gendarmeria.gov.ar,Sin registro MX
-info@institutodomingosavio.net,Sin registro MX
-inf@uap.edu.bo,Dirección de correo inválida
-iestrada@upds.edu.bo,Dirección de correo inválida
-hzuniga@udelmar.cl,Sin registro MX
-husanta@pca.edu.co,Correo válido
-huda.rivas@uda.cl,Dirección de correo inválida
-gppiedrahita@unipiloto.edu.co,Dirección de correo inválida
-gabrtr@nin.ufms.br,Sin registro MX
-Fabian Rodriguez Suarez,Formato inválido
-flaverde@areandina.edu.co,Correo válido
-Felisa Herrador,Formato inválido
-euripidesg@tutopia.com,Dirección de correo inválida
-ebolivar@unisimonbolivar.edu.co,Dirección de correo inválida
-dantoraz@ucse.edu.ar,Sin registro MX
-cssxxi@telecom.com.co,Sin registro MX
-ccerda@udd.cl,Correo válido
-camachoperea@uniweb.net.co,Sin registro MX
-ayudaescom@ejercto.mil.co,Sin registro MX
-alvaro@polcola.com.co,Sin registro MX
-alfonso.esparza@correo.buap.mx,Dirección de correo inválida
-academica@rectorado.unt.edu.ar,Dirección de correo inválida
-Rodrigo Valdivia,Formato inválido
-Oscar Velazquez,Formato inválido
-Joaco Lanusse,Formato inválido
+vicerrectoria@cesa.edu.co,🔴 Posible catch-all (error SMTP)
+vanyaroca@upsa.edu.bo,🔴 Posible catch-all (error SMTP)
+unm@unm.edu.ar,True
+teco@teco.edu.co,🔴 Sin registro MX
+subdireccion.proyeccion@esap.edu.co,🔴 Posible catch-all (error SMTP)
+seu@se.unt.edu.ar,🔴 Posible catch-all (error SMTP)
+secretaria@unae.edu.py,🔴 Posible catch-all (error SMTP)
+scad@uajms.edu.bo,🔴 Dirección de correo inválida
+scaceres@campus.unam.edu.ar,🔴 Posible catch-all (error SMTP)
+rodrigo.noguera@usa.edu.co,🔴 Posible catch-all (error SMTP)
+reitoria@uniderp.br,🔴 Posible catch-all (error SMTP)
+rectorutb@unitecnologica.edu.co,🔴 Posible catch-all (error SMTP)
+rectoria@uth.edu.mx,True
+rectoria@universidad-policial.edu.ar,🔴 Posible catch-all (error SMTP)
+rectoria@unisabana.edu.co,🔴 Posible catch-all (error SMTP)
+rectoria@unipiloto.edu.co,True
+rectoria@uniguajira.edu.co,True
+rectoria@unicolmayor.edu.co,True
+rectoria@udlap.mx,🔴 Posible catch-all (error SMTP)
+rectoria@ucp.edu.co,🔴 Posible catch-all (error SMTP)
+rectoria@tecnologicaindustrial.edu.co,🔴 Sin registro MX
+rectoria@pedagogica.edu.co,🔴 Posible catch-all (error SMTP)
+rectoria@itae.edu.co,🔴 Sin registro MX
+rectoria@correo.usta.edu.co,🔴 Sin registro MX
+rectorado@undec.edu.ar,True
+rector@unisabana.edu.co,True
+rector@rect.nrp.edu.bo,🔴 Sin registro MX
+rector@ctb.edu.co,🔴 Posible catch-all (error SMTP)
+rector@coruniversitec.edu.co,🔴 Posible catch-all (error SMTP)
+postmaster@ct.unt.edu.ar,True
+postgrado@lpz.udabol.edu.bo,🔴 Sin registro MX
+mpedroza@uamericana.edu.py,🔴 Posible catch-all (error SMTP)
+mmejia@ideartes.edu.co,🔴 Dirección de correo inválida
+mcmchuquiruna@tecsup.edu.pe,🔴 Posible catch-all (error SMTP)
+martin@capabilia.org,True
+llavayen@upds.edu.bo,🔴 Posible catch-all (error SMTP)
+leticiajordan@upsa.edu.bo,🔴 Posible catch-all (error SMTP)
+kmanssur@upds.edu.bo,🔴 Posible catch-all (error SMTP)
+juancarlosvelasco@isu.edu.mx,🔴 Posible catch-all (error SMTP)
+jpalacios@alycanto.uda.cl,🔴 Sin registro MX
+jcsanchez@udmcopiapo.cl,🔴 Sin registro MX
+jcerisola@rectorado.unt.edu.ar,🔴 Posible catch-all (error SMTP)
+jaimevalenzuela@ucentral.cl,🔴 Posible catch-all (error SMTP)
+iugna@gendarmeria.gov.ar,🔴 Sin registro MX
+info@institutodomingosavio.net,🔴 Sin registro MX
+inf@uap.edu.bo,🔴 Posible catch-all (error SMTP)
+iestrada@upds.edu.bo,🔴 Posible catch-all (error SMTP)
+hzuniga@udelmar.cl,🔴 Sin registro MX
+husanta@pca.edu.co,True
+huda.rivas@uda.cl,🔴 Posible catch-all (error SMTP)
+gppiedrahita@unipiloto.edu.co,🔴 Posible catch-all (error SMTP)
+gabrtr@nin.ufms.br,🔴 Sin registro MX
+Fabian Rodriguez Suarez,🔴 Formato inválido
+flaverde@areandina.edu.co,True
+Felisa Herrador,🔴 Formato inválido
+euripidesg@tutopia.com,🔴 Posible catch-all (error SMTP)
+ebolivar@unisimonbolivar.edu.co,🔴 Posible catch-all (error SMTP)
+dantoraz@ucse.edu.ar,🔴 Sin registro MX
+cssxxi@telecom.com.co,🔴 Sin registro MX
+ccerda@udd.cl,True
+camachoperea@uniweb.net.co,🔴 Sin registro MX
+ayudaescom@ejercto.mil.co,🔴 Sin registro MX
+alvaro@polcola.com.co,🔴 Sin registro MX
+alfonso.esparza@correo.buap.mx,🔴 Posible catch-all (error SMTP)
+academica@rectorado.unt.edu.ar,🔴 Posible catch-all (error SMTP)
+Rodrigo Valdivia,🔴 Formato inválido
+Oscar Velazquez,🔴 Formato inválido
+Joaco Lanusse,🔴 Formato inválido
